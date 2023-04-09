@@ -68,6 +68,11 @@ We are always looking for talented people who can help us with, project growth a
 
 Dacă vrei să ajuți serverul și să miscșorezi timpul de așteptare, ne poți ajuta cu drag cu o donație pe Patreon: patreon.com/VICENights
 
+# WIKI
+
+- Login / Register / Password Recovery / Server Rules: link here
+
+
 # Useful informations
 
 [Română] Bugetul proiectului o să fie undeva la 10.000 Euro, din care:
