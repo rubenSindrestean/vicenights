@@ -11,6 +11,10 @@ Caracterele le puteți schimba doar la conectarea pe server și o singură dată
 # Editare
 ATENȚIE: Doar unele caracteristici se pot schimba ulterior la caracter (hairstyle, beard, chest hair, tatuaje, machiaj)
 
+# Garderobă
+
+- dacă aveți haine ce se potrivesc doar cu un caracter feminin și vă faceți un caracter nou masculin, nu o să puteți să accesați hainele respective.
+
 # Salvare
 Dupa deconectare caracterele o sa fie salvate in baza de date.
 
