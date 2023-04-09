@@ -14,6 +14,7 @@ ATENȚIE: Doar unele caracteristici se pot schimba ulterior la caracter (hairsty
 # Garderobă
 - dacă aveți haine ce se potrivesc doar cu caracterele feminine și vă faceți un caracter nou masculin, nu o să puteți să accesați hainele respective.
 - nu puteți folosi un item de clothing pentru mai multe caractere, asta doar daca nu-l aveți pe niciun caracter
+- hainele echipate în inventar rămân acolo nu contează de caracter
 
 # Salvare
 Dupa deconectare caracterele o sa fie salvate in baza de date.
