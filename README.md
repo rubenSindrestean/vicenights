@@ -37,9 +37,16 @@ pay-2-win.
 
 [Română] Suntem o echipă formată din 6 individuali bine motivați și pregătiți pentru orice. 
 În momentul actual avem: 2 Administratori de proiect, 1 Game-Developer, 1 Front-End Developer (care se ocupa de UI-urile jocului), 1 Designer (care se ocupă de partea media și prototipuri UI),
-1 Web-Developer (care se ocupă de Panel) și mulți beta-testeri. 
+1 Web-Developer (care se ocupă de Panel) și mulți beta-testeri.
 
 [English]
 We are a team of 6 highly motivated individuals ready for anything. 
 Currently we have: 2 Project Administrators, 1 Game-Developer, 1 Front-End Developer (who takes care of the game UI's), 1 Designer (who takes care of the media side and UI prototypes),
 1 Web-Developer (who takes care of the Panel) and many beta-testers. 
+
+# Help the project
+
+[Română] Suntem în continuă căutare de oameni talentați care pot să ne ajute cu, creșterea proiectului și tehnicalități. Dacă ești unul dintre ei, contactează un Administrator de proiect pe Discord: RED#5940 pentru mai multe detalii. Fiecare ajutor o să fie răsplătit în ce mod doriți (financiar, in-game, virtual, etc). 
+
+[English]
+We are always looking for talented people who can help us with, project growth and technicalities. If you're one of them, contact a Project Administrator on Discord: RED#5940 for more details. Every help will be rewarded in whatever way you want (financial, in-game, virtual, etc). 
