@@ -44,9 +44,33 @@ We are a team of 6 highly motivated individuals ready for anything.
 Currently we have: 2 Project Administrators, 1 Game-Developer, 1 Front-End Developer (who takes care of the game UI's), 1 Designer (who takes care of the media side and UI prototypes),
 1 Web-Developer (who takes care of the Panel) and many beta-testers. 
 
+# UI/UX
+
+[Română] Interfețele o să fie în stil 80s retro, cu, culori precum hotpink, babyblue, palered, purple, peach și alte elemente specifice retro combinate cu elemente de web-design modern. Încercăm ca experiența userului pe interfață să fie una simplă și ușor de manevrat. Pentru aceasta colaborăm cu unii dintre cei mai buni designeri.
+
+[English]
+Interfaces will be in a retro 80s style, with colours like hotpink, babyblue, palered, purple, peach and other retro elements combined with modern web-design elements. We try to keep the user experience on the interface simple and easy to handle. To do this we work with some of the best designers.
+
+# Feedback
+
+[Română] Feedback-ul este un punct critic pentru noi și vrem cât mai mult Feedback posibil la orice facem. Apreciem mult critica constructivă și suntem conștienți că doar așa devenim mai buni și putem să vă construim un proiect bazat și pe viziunea comunității. Vă rugăm să intrați pe serverul de Discord și să ne oferiți cât mai mult Feedback posibil la orice facem. Ne ajută enorm!
+
+[English] Feedback is a critical point for us and we want as much feedback as possible on everything we do. We greatly appreciate constructive criticism and are aware that this is the only way we can become better and build a project based on the vision of the community. Please join the Discord server and give us as much Feedback as possible on anything we do. It helps us tremendously!
+
 # Help the project
 
 [Română] Suntem în continuă căutare de oameni talentați care pot să ne ajute cu, creșterea proiectului și tehnicalități. Dacă ești unul dintre ei, contactează un Administrator de proiect pe Discord: RED#5940 pentru mai multe detalii. Fiecare ajutor o să fie răsplătit în ce mod doriți (financiar, in-game, virtual, etc). 
 
 [English]
 We are always looking for talented people who can help us with, project growth and technicalities. If you're one of them, contact a Project Administrator on Discord: RED#5940 for more details. Every help will be rewarded in whatever way you want (financial, in-game, virtual, etc). 
+
+# Useful informations
+
+[Română] Bugetul proiectului o să fie undeva la 10.000 Euro, din care:
+
+- 6.000 de euro o să fie alocați pentru marketing
+- 4.000 de euro pe partea de design și development
+
+Doar pentru că alocăm mai puțini bani pe partea de development nu înseamnă că serverul o să fie slab structurat, dinpotrivă, am petrecut peste 10 ani din viață în Software Development și majoritatea costurilor care ar fii trebuit să le alocăm acolo o să fie inexistente pentru că serviicile de development o să fie aproape gratuite. 
+
+Această pagină de GitHub este ca informativă și pentru cei care vor să joace pe server și pentru cei care vor să investească în server. În momentul actual nu căutăm investitori noi, însă nu excludem asta în viitor. Acceptăm doar investitori care trăiesc în România!
