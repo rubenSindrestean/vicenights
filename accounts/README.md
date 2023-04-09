@@ -18,3 +18,7 @@ O să puteți să aveți mai multe conturi conectate pe un cont de Rockstar, dar
 Pentru conectarea pe server trebuie sa vă setați nickname-ul în setările de la RAGE-MP și după introduceți parola cu, care v-ați înregistrat pe server.
 Nu puteți să introduceți datele de logare fals mai mult de 3 ori.
 Dacă primiți kick de mai multe ori pentru introducerea parolei, după un anumit număr de încercări o să primiți BAN.
+
+# Recuperarea parolei
+
+Pentru acest lucru puteți accesa panelul și după accesați link-ul "Password Recovery" de la pagina de autorizare. 
