@@ -13,7 +13,7 @@ ATENȚIE: Doar unele caracteristici se pot schimba ulterior la caracter (hairsty
 
 # Garderobă
 
-- dacă aveți haine ce se potrivesc doar cu un caracter feminin și vă faceți un caracter nou masculin, nu o să puteți să accesați hainele respective.
+- dacă aveți haine ce se potrivesc doar cu caracterele feminine și vă faceți un caracter nou masculin, nu o să puteți să accesați hainele respective.
 
 # Salvare
 Dupa deconectare caracterele o sa fie salvate in baza de date.
