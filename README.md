@@ -64,6 +64,10 @@ Interfaces will be in a retro 80s style, with colours like hotpink, babyblue, pa
 [English]
 We are always looking for talented people who can help us with, project growth and technicalities. If you're one of them, contact a Project Administrator on Discord: RED#5940 for more details. Every help will be rewarded in whatever way you want (financial, in-game, virtual, etc). 
 
+# Patreon
+
+Dacă vrei să ajuți serverul și să miscșorezi timpul de așteptare, ne poți ajuta cu drag cu o donație pe Patreon: patreon.com/VICENights
+
 # Useful informations
 
 [Română] Bugetul proiectului o să fie undeva la 10.000 Euro, din care:
