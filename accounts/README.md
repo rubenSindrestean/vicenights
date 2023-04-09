@@ -4,7 +4,7 @@ O să fie un delay de 15 secunde ca să aveți timp să citiți, nu doar să apa
 
 # Înregistrare
 Pentru înregistrare aveți nevoie de: 
-- un nume de utilizator valid (excluse sunt: __Test, _.Test, Test__, Test_., !@#@#@, _Invalid_, _$$Test$$_, $$test$$, etc) între 3 și 18 caractere.
+- un nume de utilizator valid (excluse sunt: __Test, _.Test, Test__, Test_., !@#@#@, _Invalid_, _$$Test$$_, etc) între 3 și 18 caractere.
 - o adresă de email
 - o parolă între 8 și 32 de caractere
 - un cont de Rockstar valid
