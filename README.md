@@ -12,11 +12,6 @@ The beta-testing period will be from June 1st until the server opens.
 # Community Discord w/ live updates
 https://discord.gg/qBfZRusu
 
-[English]
-VICE Nights is a RAGE-MP (GTA 5) Project that was initiated on 1st of February 2023.
-We are planning to go into production mode on 1st of September/August 2023.
-Our beta-testing period is going to be from 1st of June till 1st of September/August 2023.
-
 # General
 
 [Română]
