@@ -12,6 +12,7 @@ O să vă puteți accesa garderoba din următoarele locații:
 - Hotele (dacă aveți o cameră închiriată)
 - Cort sau Van: dacă dețineți un cort sau un Van (Cort-urile și Van-urile nu se pot închiria)
 - Clothing Stores
+- Creare caracter
 
 # Taxe
 
