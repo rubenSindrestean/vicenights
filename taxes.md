@@ -23,3 +23,12 @@ O să puteți să vă vedeți taxele plătite la orice oră din panoul personal 
 1. Taxa de raport financiar, care se plătește la fiecare sfârșit de săptămână | care este între 25.000$ și 50.000$
 2. Taxa pe profit, care se plătește la fiecare sfârșit de săptămână | care este între 7% și 11%
 3. Taxă pe angajați, care se plătește în fiecare zi | 10% din salariul fiecărui angajat sau 1.500$ dacă nu este nimeni angajat
+
+# Taxele plătite de afaceri către GUVERN
+
+1. Taxa de raport financiar, care se plătește la fiecare sfârșit de săptămână | între 1.500$ și 3.000$
+2. Taxa pe profit, care se plătește la fiecare sfârșit de săptămână | care este între  14% și 21%
+3. Taxă pe angajați, care se plătește în fiecare zi | 5% din salariul fiecărui angajat sau 250$ dacă nu este nimeni angajat
+4. Taxă de proprietate, dacă business-ul are proprietăți (aceasta depinde de zonă) | intre 100$ și 1.750$ pe zi - depinde de câte locații aveți și unde se găsesc
+5. Taxă management contracte, asta dacă ați încheiat alte contracte cu alte firme | între 25$ și 50$ pe zi
+6. Taxă de poluare, care depinde de ce flotă de mașini aveți | se vede la achiziționarea unui Vehicul cât se plătește taxă | se plătește zilnic
