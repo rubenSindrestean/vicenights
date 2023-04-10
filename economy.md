@@ -5,6 +5,21 @@ planuri de investiții, servicii sociale și bani de la guvern pentru infrastruc
 # Taxe
 Toate taxele de pe server se pot vedea aici: https://github.com/rubenSindrestean/vicenights/blob/main/taxes.md
 
+# Economia în sine
+
+Pentru că dorim să ținem cât se poate de bine economia în frâu și să nu vă pierdeți valoarea banilor peste noapte, o să implementăm o metodă nemaivăzută pe serverele de Roleplay/RPG.
+
+Economia o să aibă în total 15.000.000.000$ în circulație. Această sumă de bani se află în seiful Guvernului. 
+Toți banii de pe server pe care o să-i primiți o să fie din seiful Guvernului. 
+Taxele primite de la jucători sau afaceri o să fie adăugate tot în seiful Guvernului după care o să fie rulate iar în economie.
+Transparența economiei este un MUST pentru noi, de aceea o să puteți să verificați la primărie oricând intrările și ieșirile precum inflația.
+Guvernul are posiblitatea de a imprima bani, daca este necesar, însă acest lucru duce la creșterea inflației. 
+O inflație normală pe server este între 5% și 8% pe lună. 
+
+Dorești să nu fii afectat de inflație? AURUL este o opțiune perfectă pentru aceasta.
+Numărul total de TONE de AUR în circulație: 10 (acest număr este vizibil la Primărie)
+
+
 # Băncile
 
 O bancă este un tip de business. La fel care orice business băncile își pot crea în parte oferte speciale pentru jucători. 
