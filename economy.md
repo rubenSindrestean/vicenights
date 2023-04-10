@@ -71,3 +71,17 @@ la cheltuielile firmei.
 - Fiecare investitor/CEO poate să primească o parte din profiturile companiei daca majoritatea este de acord. 
 - Fiecare companie poate să-și modifice descrierea la orice moment dat, însă dacă nu deții peste 51% va fi nevoită permisiunea celorlalți investitori. 
 - Cu cât deții mai multe procente dintr-o afacere, cu atât ai influență mai mare în afacere.
+
+
+# Job-urile
+
+Job-urile de la Guvern o să fie plătite din seiful Guvernului. 
+Este tot timpul benefic să lucrați la Guvern pentru a putea beneficia de servicii sociale și beneficii de la guvern pe care le puteți găsi aici: https://github.com/rubenSindrestean/vicenights/blob/main/benefits.md
+
+Toate job-urile o să aibă payout egal, doar la job-urile la care aveți nevoie de diferite licențe o să primiți mai mulți bani. 
+
+Job-urile serverului:
+
+- Trucker 
+
+
