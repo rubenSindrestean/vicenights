@@ -19,3 +19,7 @@ O să puteți să vă vedeți taxele plătite la orice oră din panoul personal 
 7. Taxă de transfer bani: între 1% și 2% | Taxa aceasta se împarte 50-50 la băncile din proces, sau 100% dacă ambii jucători au card la aceiași bancă
 
 #  Taxele plătite de bănci către GUVERN
+
+1. Taxa de raport financiar, care se plătește la fiecare sfârșit de săptămână | care este între 25.000$ și 50.000$
+2. Taxa pe profit, care se plătește la fiecare sfârșit de săptămână | care este între 7% și 11%
+3. Taxă pe angajați, care se plătește în fiecare zi | 10% din salariul fiecărui angajat sau 1.500$ dacă nu este nimeni angajat
