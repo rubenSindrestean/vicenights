@@ -55,3 +55,19 @@ acțiuni în banca respectivă le vor pierde și își vor pierde teoretic banii
 10. Băncile pot să creeze poziții de job-uri și să angajeze ca și un business normal. Pot să-și adauge de asemenea unele facturi tot pe companie, de exemplu: achiziționarea pentru
 mașini care se vor folosi în scopul băncii.
 11. Băncile sunt nevoite ca și orice business să plătească taxe la stat, însă taxele pentru bănci sunt mai mici față de cele pentru alte business-uri. 
+
+
+# Afacerile private și publice
+
+Puteți cumpăra procente dintr-o afacere care aparține serverului sau vă puteți crea chiar voi propriul business (exemplu: companie de transport, servicii de curățenie, minerit, construit, reparat, etc). 
+Ca și orice afacere din real-life, fiecare are puncte PRO și CONTRA. Vă recomandăm să citiți Taxele înainte să vă creați o afacere. 
+
+- Jucătorii ce dețin peste 50% dintr-o afacere vor putea face alegeri individuale (aici se încadrează: deschiderea de poziții de job-uri noi, achiziționarea de bunuri pe companie pe care le poate folosi chiar individul respectiv în orice scopuri cât și taxele care vin cu respectivele achiziții, recrutarea de noi angajați și management a companiei, teoretic un full-access la tot ce se întâmplă în afacere). 
+- Facturile precum: motorina, electricitatea, taxa de poluare, asigurările de proprietate/flotă auto, angajați, mașini, mâncare și transport o să poată să fie adăugate
+la cheltuielile firmei. 
+- Fiecare companie are un anumit număr de acțiuni (Exemplu: 10.000), la crearea companiei se poate specifica numărul total de acțiuni. 
+- Fiecare companie poate să cumpere mașini pe firmă din orice DealerShip cu bani din seiful companiei.
+- Fiecare companie poate să angajeze alți jucători și să creeze poziții noi de job-uri pe MARKET-ul de JOB-uri. 
+- Fiecare investitor/CEO poate să primească o parte din profiturile companiei daca majoritatea este de acord. 
+- Fiecare companie poate să-și modifice descrierea la orice moment dat, însă dacă nu deții peste 51% va fi nevoită permisiunea celorlalți investitori. 
+- Cu cât deții mai multe procente dintr-o afacere, cu atât ai influență mai mare în afacere.
