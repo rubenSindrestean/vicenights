@@ -14,7 +14,7 @@ Toți banii de pe server pe care o să-i primiți o să fie din seiful Guvernulu
 Taxele primite de la jucători sau afaceri o să fie adăugate tot în seiful Guvernului după care o să fie rulate iar în economie.
 Transparența economiei este un MUST pentru noi, de aceea o să puteți să verificați la primărie oricând intrările și ieșirile precum inflația.
 Guvernul are posiblitatea de a imprima bani, daca este necesar, însă acest lucru duce la creșterea inflației. 
-O inflație normală pe server este între 5% și 8% pe lună. 
+O inflație normală pe server este între 4% și 7% pe lună. 
 
 Dorești să nu fii afectat de inflație? AURUL este o opțiune perfectă pentru aceasta.
 Numărul total de TONE de AUR în circulație: 10 (acest număr este vizibil la Primărie)
@@ -43,17 +43,15 @@ Noi vă indicăm să aveți tot timpul 50% din fonduri la dispoziția jucătoril
 Altele:
 
 1. Investițiile băncilor pot să fie făcute doar în companii guvernamentale sau în aur.
-2. Băncile pot de asemenea să dea bani împrumut Guvernului pentru un payout între 4% și 7% din suma împrumutată, depinde de durata contractului de LENDING.
+2. Băncile pot de asemenea să dea bani împrumut Guvernului pentru un payout între 4% și 11% din suma împrumutată, depinde de durata contractului de LENDING.
 3. Valoarea Acțiunii unei bănci poate să meargă până la 0 daca sunt probleme cu investițiile și cu managementul de bani. 
-4. În cazul în valoarea unei acțiuni a unei bănci ajunge la 0, aceasta va fi automat preluată de Guvern care va oferi un pachet de Bailout băncii iar toți care au deținut
-acțiuni în banca respectivă le vor pierde și își vor pierde teoretic banii investiți. 
+4. În cazul în valoarea unei acțiuni a unei bănci ajunge la 0, aceasta va fi automat preluată de Guvern care va oferi un pachet de Bailout băncii iar toți care au deținut acțiuni în banca respectivă le vor pierde și își vor pierde teoretic banii investiți. Guvernul v-a prelua toate acțiunile din banca respectivă.
 5. Guvernul va putea licita acțiuni din Bancă.
 6. Jucătorii ce dețin peste 51% dintr-un business vor putea lua decizii singuri când vine vorba de administrație. 
-7. Fiecare jucător poate să vândă acțiuni la Guvern sau la Bancă. 
+7. Fiecare jucător poate să vândă acțiuni la Guvern sau la alți jucători.
 8. Investitorii nu vor putea vedea balanța totală a băncii! Raport-ul financiar pentru investitori o să fie la fiecare sfârșit de săptămână. 
 9. Investitorii pot veni cu anumite propuneri de investiție pe BUSINESS BOARD.
-10. Băncile pot să creeze poziții de job-uri și să angajeze ca și un business normal. Pot să-și adauge de asemenea unele facturi tot pe companie, de exemplu: achiziționarea pentru
-mașini care se vor folosi în scopul băncii.
+10. Băncile pot să creeze poziții de job-uri și să angajeze ca și un business normal. Pot să-și adauge de asemenea unele facturi tot pe companie, de exemplu: achiziționarea pentru mașini care se vor folosi în scopul băncii.
 11. Băncile sunt nevoite ca și orice business să plătească taxe la stat, însă taxele pentru bănci sunt mai mici față de cele pentru alte business-uri. 
 
 
@@ -82,6 +80,41 @@ Toate job-urile o să aibă payout egal, doar la job-urile la care aveți nevoie
 
 Job-urile serverului:
 
-- Trucker 
+- Trucker
+
+
+# Housing-ul
+
+Există mai multe metode de housing:
+
+1. Cortul: 
+
+- este cea mai ieftină opțiune
+- sunteți flexibili și puteți să mutați cortul oriunde
+- poliția are dreptul să vă dezasambleze cortul, dacă nu este în spațiile special amenajate pentru corturi
+- este interzis să vă asamblați corturile pe străzile oricărui oraș
+- prețurile pentru corturi încep de la 5.000$
+- vă puteți spawna la conectare la ultima poziție a cortului
+
+2. Motorhomes / Campere:
+
+- este o variantă destul de accesibilă și la un preț puțin mai mic decât o cameră de hotel sau chirie la o casă
+- sunteți foarte flexibili și vă puteți parca în orice loc de parcare | aici se exclud parcările din centrul orașelor
+- poliția vă poate da amendă dacă Camperul vostru nu este parcat corespunzător iar în cele mai rele cazuri pot să trimită o comanda pentru tractarea Camperului
+- prețurile pentru campere încep de la 55.000$
+- fiecare Camper are anumite opțiuni, verificați-le înainte de a achiziționa unul. Sunt unele Campere care nu au Bucătărie, Storage Room sau Mini-Garaj (maxim 1 vehicul). 
+- taxele pentru Campere se încadrează la categoria camioanelor
+- vă puteți spawna la conectare la ultima poziție a Camperului
+
+3. Motel/Hotel
+
+- prețul camerelor hotelelor și a motelurilor sunt în funcție de dotări iar deținătorii pot să seteze oricând prețuri mai mici sau mai mari
+- dacă ați făcut contract cu Motelul/Hotelul pentru o lună, chiar dacă prețul urcă sau scade, nu veți fi afectat
+- Hotelele și Motelele au opțiunea de a modifica tipurile de contracte
+- Se pot face contracte pentru camere între o zi și 30 de zile
+- Chiria se plătește la începutul zilei
+- Atenție mare când faceți un contract de chirie cu un Motel sau Hotel, dacă faceți pe o durată mai mare de 7 zile, trebuie să demisionați contractul cu un anumit numar de zile dinainte.
+- Camerele au: Garderobă și 250 KG de Storage Space.
+- Dacă nu vă plătiți chiria sau nu vă scoateți itemele din Storage Space atunci când nu mai aveți chirie la respectivul motel/hotel, o să trebuiască să plătiți hotelului/motelului o taxă. 
 
 
