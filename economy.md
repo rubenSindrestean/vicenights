@@ -95,6 +95,7 @@ Există mai multe metode de housing:
 - este interzis să vă asamblați corturile pe străzile oricărui oraș
 - prețurile pentru corturi încep de la 5.000$
 - vă puteți spawna la conectare la ultima poziție a cortului
+- cortul are capacitatea de până la 5 renteri în total (depinde de mărimea Cortului)
 
 2. Motorhomes / Campere:
 
@@ -105,6 +106,7 @@ Există mai multe metode de housing:
 - fiecare Camper are anumite opțiuni, verificați-le înainte de a achiziționa unul. Sunt unele Campere care nu au Bucătărie, Storage Room sau Mini-Garaj (maxim 1 vehicul). 
 - taxele pentru Campere se încadrează la categoria camioanelor
 - vă puteți spawna la conectare la ultima poziție a Camperului
+- un camper are capacitatea de 5 până la 10 renteri în total (depinde de mărimea Camperului)
 
 3. Motel/Hotel
 
@@ -116,5 +118,20 @@ Există mai multe metode de housing:
 - Atenție mare când faceți un contract de chirie cu un Motel sau Hotel, dacă faceți pe o durată mai mare de 7 zile, trebuie să demisionați contractul cu un anumit numar de zile dinainte.
 - Camerele au: Garderobă și 250 KG de Storage Space.
 - Dacă nu vă plătiți chiria sau nu vă scoateți itemele din Storage Space atunci când nu mai aveți chirie la respectivul motel/hotel, o să trebuiască să plătiți hotelului/motelului o taxă. 
+- Un motel poate avea maxim 30 de camere | dacă are FULL-UPGRADE
+- Un hotel poate avea maxim 150 de camere | dacă are FULL-UPGRADE
+- Motelele și Hotelele pot include și mâncarea în prețul chiriei.
+- Motelele și Hotelele pot să-și facă propriile meniuri de mâncare pe care le puteți comanda.
+- Motelele și Hotelele sunt business-uri normale și se încadrează la aceleași cheltuieli, taxe și sistem de management
+- Motelele și Hotelele pot să facă contracte cu alte firme private sau publice pentru livrări, servicii ș.a.m.d.
+- Motelele și Hotelele trebuie să plătească costuri extra pentru Restaurant (produse alimentare, livrări ș.a.m.d.) - PRODUSELE ALIMENTARE EXPIRĂ DUPĂ 5 ZILE
 
 
+4. Case/Apartmente
+
+- fiecare deținător poate să seteze câți renteri vrea în apartment/casă precum și prețul chiriei (Care se plătește la începutul zilei)
+- deținătorul poate să dea EVICT unui chiriaș la orice oră, dar dacă aveți un contract de chirie care durează peste 7 zile, o să fiți dați afară doar după ce durata contractului expiră
+- contractele de chirie sunt între o zi și 14 zile
+- deținătorul poate însă să seteze pe cât timp puteți să vă faceți contracte
+- numărul de chiriași la case este restricționat la 25, însă deținătorul poate să micșoreze acest număr
+- O casă/un apartment poate să aibă următoarele upgrade-uri/feature-uri: Garaj (cu minim 4 locuri de parcare), Garderobă, Storage Room (500 KG default, dar se poate upgrada), Bucătărie (cu diferite Rețete). 
