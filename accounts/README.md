@@ -1,6 +1,7 @@
 # Regulile serverului
 Acest screen apare doar dacă nu ați confirmat niciodată că sunteți de acord cu regulile serverului sau dacă regulile serverului s-au actualizat. 
 O să fie un delay de 15 secunde ca să aveți timp să citiți, nu doar să apasați pe Confirmă fără să citiți regulile serverului.
+Acest ecran o să apară înainte de înregistrare/logare.
 
 # Înregistrare
 Pentru înregistrare aveți nevoie de: 
@@ -21,4 +22,5 @@ Dacă primiți kick de mai multe ori pentru introducerea parolei, după un anumi
 
 # Recuperarea parolei
 
-Pentru acest lucru puteți accesa panelul și după accesați link-ul "Password Recovery" de la pagina de autorizare. 
+La conectarea pe server puteți opta pentru recuperarea parolei. 
+O să primiți un cod din 6 cifre pe E-MAIL pe care trebuie să-l introduceți în joc după care vă veți putea schimba parola. 
