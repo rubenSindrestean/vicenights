@@ -96,6 +96,7 @@ Există mai multe metode de housing:
 - prețurile pentru corturi încep de la 5.000$
 - vă puteți spawna la conectare la ultima poziție a cortului
 - cortul are capacitatea de până la 5 renteri în total (depinde de mărimea Cortului)
+- DE LA NIVEL 1
 
 2. Motorhomes / Campere:
 
@@ -107,6 +108,7 @@ Există mai multe metode de housing:
 - taxele pentru Campere se încadrează la categoria camioanelor
 - vă puteți spawna la conectare la ultima poziție a Camperului
 - un camper are capacitatea de 5 până la 10 renteri în total (depinde de mărimea Camperului)
+- NIVEL 5+
 
 3. Motel/Hotel
 
@@ -125,6 +127,7 @@ Există mai multe metode de housing:
 - Motelele și Hotelele sunt business-uri normale și se încadrează la aceleași cheltuieli, taxe și sistem de management
 - Motelele și Hotelele pot să facă contracte cu alte firme private sau publice pentru livrări, servicii ș.a.m.d.
 - Motelele și Hotelele trebuie să plătească costuri extra pentru Restaurant (produse alimentare, livrări ș.a.m.d.) - PRODUSELE ALIMENTARE EXPIRĂ DUPĂ 5 ZILE
+- DE LA NIVEL 1
 
 
 4. Case/Apartmente
@@ -134,4 +137,5 @@ Există mai multe metode de housing:
 - contractele de chirie sunt între o zi și 14 zile
 - deținătorul poate însă să seteze pe cât timp puteți să vă faceți contracte
 - numărul de chiriași la case este restricționat la 25, însă deținătorul poate să micșoreze acest număr
-- O casă/un apartment poate să aibă următoarele upgrade-uri/feature-uri: Garaj (cu minim 4 locuri de parcare), Garderobă, Storage Room (500 KG default, dar se poate upgrada), Bucătărie (cu diferite Rețete). 
+- O casă/un apartment poate să aibă următoarele upgrade-uri/feature-uri: Garaj (cu minim 4 locuri de parcare), Garderobă, Storage Room (500 KG default, dar se poate upgrada), Bucătărie (cu diferite Rețete).
+- NIVEL 10+
