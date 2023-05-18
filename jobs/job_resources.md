@@ -55,12 +55,100 @@ High tier:
 
 # Farmer
 
-Fructe:
+Cereal:
 
-Legume:
+1. Wheat
+2. Barley
+3. Oats
+4. Corn
+5. Rice
+6. Cotton
 
-Graie: 
+Fruits:
 
-Droguri:
+1. Apples
+2. Pears
+3. Bananas
+4. Cherries
+5. Strawberries
+
+Vegetables:
+
+1. Tomatoes
+2. Onion
+3. Cucumber
+4. Potatoes
+5. Peppers
+
+Animals:
+
+1. Cow
+2. Pork
+3. Chicken
+
+# Garbage Collector
+- There's a small chance to find collectibles in the trash.
+
+15% - fruits/vegetables/cereal
+10% - meat (beef/pork/chicken)
+5% - money (10 - 50$)
+2.5% - minereuri
+
+# Hunter
+
+- Bird meat (2.5 - 5 kg)
+- Rabbit (5 - 7.5 kg)
+- Coyote (7.5 - 15 kg)
+- Deer (15 - 30 kg)
+- Cougar (30 - 50 kg)
+- Boar (50 - 100 kg)
+- Bear (250 - 350 kg)
+- Elephant (1.000 - 1.250 kg)
+
+# Trucker
+- No resources available at the moment.
+
+# Lumberjack
+
+- Wood
+
+# Quarry Worker
+
+- Stones
+- Sand
+- Coal
+- Iron
+- Sulfur
+- Phosphor
+- Cupper
+- Silver
+- Gold
+- Diamonds (only for cash / transform in VCoins)
+
+# Chimist
+
+Wood -> Coal
+Wood + Iron -> Reinforced Wood
+Coal + Wood -> Charcoal
+
+Charcoal + Sand -> Glass
+Cotton + Corn + Charcoal -> Plastic
+Stones + Iron + Charcoal -> Steel
+Wood + Stones + Steel + Charcoal -> Tools (Hammer, Pickaxe, Shovel, Axe, Knives/Melee)
+Cotton + Steel + Charcoal -> Kevlar Armour
+Steel + Charcoal -> Bolts / Nails
+Reinforced Wood + Hammer + Bolts + Nails + Steel + Plastic -> Weapon Crafts
+Steel + Sulfur -> Bullets
+
+Glass + Sulfur -> Molotoves
+Glass + Chips + Battery + Plastic -> Laptop
+
+Phosphor + Charcol -> Polonium
+Polonium + Steel -> Battery 1000
+Polonium + Silver -> Battery 2000
+Polonium + Gold -> Battery 4000
+
+
+Plastic + Cupper + Gold -> Chips
 
 
