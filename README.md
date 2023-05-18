@@ -15,7 +15,7 @@ https://discord.gg/qBfZRusu
 # General
 
 [Română]
-Proiectul o să fie unul RPG, nu Roleplay. Nu excludem posibilitatea ca în viitor să deschidem încă un server de Roleplay cu același gamemode. Serverul o sa aiba support
+Proiectul o să fie unul Roleplay, nu RPG. Serverul o sa aiba support
 pentru mai multe limbi: engleză, română și germană. Asta pentru că s-ar putea să deschidem și servere englezești și nemțești. 
 Economia simulată o să fie cât de aproape de cea din real-life (cu taxe, achiziții pe firmă, etc). 
 Încercăm pe cât se poate ca donațiile să nu intervină în distrugerea economiei și încercăm să avem o atmosferă competitivă în care donațiile să nu creeze un environment
