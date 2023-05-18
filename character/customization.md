@@ -1,9 +1,9 @@
 # Customizare
 
 - detaliile caracterului o sa fie ca pe GTA Online
-- fiecare utilizator basic + Premium o sa poată să aibă maxim 1 caracter creat
-- utilizatorii Platinum o să poată să aibă maxim 2 caractere create
-- utilizatorii Diamond o să poată să aibă maxim 3 caractere create
+- fiecare utilizator basic + Premium o sa poată să aibă maxim 2 caracter creat
+- utilizatorii Platinum o să poată să aibă maxim 4 caractere create
+- utilizatorii Diamond o să poată să aibă maxim 5 caractere create
 
 P.S. Chiar daca vă puteți crea mai multe caractere, toate o să aibă aceleași statistici doar că înfățișarea o să fie diferită. 
 Caracterele le puteți schimba doar la conectarea pe server și o singură dată per sesiune. 
