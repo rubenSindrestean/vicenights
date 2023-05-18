@@ -80,11 +80,22 @@ Vegetables:
 4. Potatoes
 5. Peppers
 
+Plants:
+
+1. Cannabis (fertilizer required)
+2. Mac (fetilizer required)
+3. Hemp (fertilizer required)
+4. Herbs
+
 Animals:
 
 1. Cow
 2. Pork
 3. Chicken
+
+Crafts for Farmer:
+
+Hemp x5 - Hemp Oil x1
 
 # Garbage Collector
 - There's a small chance to find collectibles in the trash.
@@ -127,28 +138,37 @@ Animals:
 
 # Chimist
 
-Wood -> Coal
-Wood + Iron -> Reinforced Wood
-Coal + Wood -> Charcoal
+- Wood -> Coal
+- Wood + Iron -> Reinforced Wood
+- Coal + Wood -> Charcoal
 
-Charcoal + Sand -> Glass
-Cotton + Corn + Charcoal -> Plastic
-Stones + Iron + Charcoal -> Steel
-Wood + Stones + Steel + Charcoal -> Tools (Hammer, Pickaxe, Shovel, Axe, Knives/Melee)
-Cotton + Steel + Charcoal -> Kevlar Armour
-Steel + Charcoal -> Bolts / Nails
-Reinforced Wood + Hammer + Bolts + Nails + Steel + Plastic -> Weapon Crafts
-Steel + Sulfur -> Bullets
+- Charcoal + Sand -> Glass
 
-Glass + Sulfur -> Molotoves
-Glass + Chips + Battery + Plastic -> Laptop
+- Cotton + Corn + Charcoal -> Plastic
+- Hemp + Corn + Wood -> Plastic
+- Hemp Oil + Charcoal -> Vitamins
 
-Phosphor + Charcol -> Polonium
-Polonium + Steel -> Battery 1000
-Polonium + Silver -> Battery 2000
-Polonium + Gold -> Battery 4000
+- Plastic + Hemp -> Packaging
+
+- Stones + Iron + Charcoal -> Steel
+- Reinforced Wood + Stones + Steel + Charcoal -> Tools (Hammer, Pickaxe, Shovel, Axe, Knives/Melee)
+- Cotton + Steel + Charcoal -> Kevlar Armour
+- Steel + Charcoal -> Bolts / Nails
+- Reinforced Wood + Hammer + Bolts + Nails + Steel + Plastic -> Weapon Crafts
+- Steel + Sulfur -> Bullets
+
+- Sulfur x4 + Herbs x4 -> Fertilizer x1
+- Hemp Oil x5 -> Fuel x1
+
+- Glass + Sulfur -> Molotoves
+- Glass + Chips + Battery + Plastic -> Laptop
+
+- Phosphor + Charcol -> Polonium
+- Polonium + Steel -> Battery 1000
+- Polonium + Silver -> Battery 2000
+- Polonium + Gold -> Battery 4000
 
 
-Plastic + Cupper + Gold -> Chips
+- Plastic + Cupper + Gold -> Chips
 
 
