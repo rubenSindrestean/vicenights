@@ -13,3 +13,11 @@
 11. Chimist
 12. Engineer
 
+# Licente pentru job-uri
+
+- Pilot
+- Trucker
+- Engineer
+- Chimist
+- Bus Driver
+- Mechanic
