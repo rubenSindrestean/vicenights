@@ -12,6 +12,7 @@
 10. Miner
 11. Chimist
 12. Engineer
+13. Lumberjack
 
 # Licente pentru job-uri
 
