@@ -70,6 +70,7 @@ Fruits:
 3. Bananas
 4. Cherries
 5. Strawberries
+6. Grapes
 
 Vegetables:
 
