@@ -41,123 +41,137 @@ https://wiki.rage.mp/index.php?title=Weapons / -> There will be no need for you 
 
 Fishes (I know, a lot of them but we're trying to be diversified a little):
 
-Northern Pike
-Coho Salmon
-Carp
-Muskie
-Nile Perch
+- Northern Pike
+- Coho Salmon
+- Carp
+- Muskie
+- Nile Perch
 
-Goldfish
-Freshwater Stingray
-Blue Catfish
-Lungfish
-Wels Catfish
-Sturgeon
+- Goldfish
+- Freshwater Stingray
+- Blue Catfish
+- Lungfish
+- Wels Catfish
+- Sturgeon
 
-Sea Trout
-Amberjack
-Haddock
-Barracuda
-Red Snapper
+- Sea Trout
+- Amberjack
+- Haddock
+- Barracuda
+- Red Snapper
 
-Red Drum
-Albacore
-Swordsfish
-Black Drum
-Giant Trevally
-Yellowfin Tuna
-Goliath Grouper
+- Red Drum
+- Albacore
+- Swordsfish
+- Black Drum
+- Giant Trevally
+- Yellowfin Tuna
+- Goliath Grouper
 
 Resources:
 
 
 Cereal:
 
-Wheat
-Barley
-Oats
-Corn
-Rice
-Cotton
+- Wheat
+- Barley
+- Oats
+- Corn
+- Rice
+- Cotton
 
 
 Fruits:
 
-Apples
-Pears
-Bananas
-Cherries
-Strawberries
-Grapes
+- Apples
+- Pears
+- Bananas
+- Cherries
+- Strawberries
+- Grapes
 
 Vegetables:
 
-Tomatoes
-Onion
-Cucumber
-Potatoes
-Peppers
-Mushrooms
-Carrots
+- Tomatoes
+- Onion
+- Cucumber
+- Potatoes
+- Peppers
+- Mushrooms
+- Carrots
 
 
 Plants:
 
-Cannabis
-Mac
-Hemp
-Herbs
+- Cannabis
+- Mac
+- Hemp
+- Herbs
 
 
 Animals:
 
-Cow
-Pork
-Chicken
+- Cow
+- Pork
+- Chicken
 
 Other:
 
-Hemp oil
-Bird
-Rabbit
-Coyote
-Deer
-Cougar
-Boar
-Bear
-Elephant
-Stones
-Sand
-Coal
-Iron
-Sulfur
-Phosphor
-Cupper
-Silver
-Gold
-Diamonds
-Wood
-Reinforced Wood
-Coal
-Charcoal 
-Sand
-Glass
-Plastic
-Packaging (like a carton box)
-Steel
-Bolts
-Nails
-Bullets
-Fertilizer
-Fuel
-Fuel-Can
-Laptop
-Cellphone
-Radio
-Polonium
-Battery
-Chips (Micro-chips)
+- Hemp oil
+- Bird
+- Rabbit
+- Coyote
+- Deer
+- Cougar
+- Boar
+- Bear
+- Elephant
+- Stones
+- Sand
+- Coal
+- Iron
+- Sulfur
+- Phosphor
+- Cupper
+- Silver
+- Gold
+- Diamonds
+- Wood
+- Reinforced Wood
+- Coal
+- Charcoal 
+- Sand
+- Glass
+- Plastic
+- Packaging (like a carton box)
+- Steel
+- Bolts
+- Nails
+- Bullets
+- Fertilizer
+- Fuel
+- Fuel-Can
+- Laptop
+- Cellphone
+- Radio
+- Polonium
+- Battery
+- Chips (Micro-chips)
 
+
+Food:
+- Rice with vegetables and meat
+- Oatmeal
+- Burger
+- Fries
+- Hot dog
+- Beef
+- Pork
+- Chicken
+- Eggs
+- Milk
+- Flour
+- Bread
 
 
 
