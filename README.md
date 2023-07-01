@@ -1,8 +1,8 @@
 # VICE Nights
 [Română]
 VICE Nights este un proiect de RAGE-MP (GTA 5) care a fost inițiat pe data de 1. Februarie 2023.
-Plănuim să deschidem serverul oficial pe 1 Septembrie/August 2023.
-Perioada beta-testing o să fie de pe 1. Iunie până la deschiderea serverului.
+Plănuim să deschidem serverul oficial în Octombrie/Noiembrie 2023.
+Perioada beta-testing o să fie de pe 1. August până la deschiderea serverului.
 
 [English]
 VICE Nights is a RAGE-MP (GTA 5) project that was started on February 1, 2023.
