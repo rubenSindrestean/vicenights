@@ -139,3 +139,5 @@ Există mai multe metode de housing:
 - numărul de chiriași la case este restricționat la 25, însă deținătorul poate să micșoreze acest număr
 - O casă/un apartment poate să aibă următoarele upgrade-uri/feature-uri: Garaj (cu minim 4 locuri de parcare), Garderobă, Storage Room (500 KG default, dar se poate upgrada), Bucătărie (cu diferite Rețete).
 - NIVEL 10+
+
+Ruben nu stie juca cs
