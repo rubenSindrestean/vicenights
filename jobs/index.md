@@ -9,10 +9,9 @@
 7. Hunter
 8. Trucker
 9. Quarry Worker
-10. Miner
-11. Chimist
-12. Engineer
-13. Lumberjack
+10. Chimist
+11. Engineer
+12. Lumberjack
 
 # Licente pentru job-uri
 
