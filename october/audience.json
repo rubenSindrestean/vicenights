@@ -1,0 +1,9 @@
+{
+  "audience": [
+    {
+      "discordTag": "John Doe | Aici poti pune si nume, dar ar fii bine sa pui username-ul",
+      "age": "69",
+      "sex": "female sau male | ATENTIE: Ca sa adaugi inca o persoana noua la audienta, copiezi tot dintre {} si la sfarsit adaugi ,"
+    },
+  ]
+}
